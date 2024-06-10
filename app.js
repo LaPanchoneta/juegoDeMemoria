@@ -1,3 +1,4 @@
+console.log("traduccion de palabras y cambio del logo de las cartas cuando estan dada vueltas ahora es el simbolo de preguntas de marrio")
 document.addEventListener('DOMContentLoaded', () => {
   //list all card options
   const cardArray = [
@@ -111,4 +112,3 @@ document.addEventListener('DOMContentLoaded', () => {
 
   createBoard()
 })
-console.log("traduccion de palabras y cambio del logo de las cartas cuando estan dada vueltas ahora es el simbolo de preguntas de marrio")
